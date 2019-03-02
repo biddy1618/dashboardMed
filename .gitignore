@@ -1,0 +1,5 @@
+# Ignore Jupyter Notebook cash file
+/.ipynb_checkpoints/*
+
+# Ignore virtual environment files
+/venv/*
