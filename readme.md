@@ -47,6 +47,10 @@ while staying in __dashboard/__ folder. It will read the `app.yaml`, and deploy 
 
 That's it, you should have your application up and running on your __GCP__.
 
+It should look like below:
+
+![Site Preview](/siteOutlook.png)
+
 ## Built With
 
 * [Flask](http://flask.pocoo.org/) - The web framework used (back)
